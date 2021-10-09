@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+*{
+margin:0px;
+padding: 0px;
+}
+h1{font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
+	h3 { font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
+	p { font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+	blockquote { font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
+	pre { font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+}
+#Clas{
+	Background-color: #EBFF3B;
+	Padding: 30px;
+}
+#IMCLASS1{
+		border-radius: 50%;
+	-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+}
+#IMCLASS2{
+		border-radius: 50%;
+	-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+Border-style: Solid;
+Border-width: 27px;
+Border-color: Yellow;
+}
+
+#NeText{
+	Background-color: #EBFF3B;
+	Padding: 20px;
+}
+#New{
+	Background-color: #EBFF3B;
+	padding: 10px;
+}
+#TextNews{
+	Background-color:#54A148;
+	Border-style: Solid;
+	Border-color: black;
+	padding: 20px;
+	margin: 10px;
+}
+
+#Footer{
+	Background-color:#4f6056;
+}
+#INSTA{
+	Background-color:#EBFF3B;
+}
+#INSTA a{
+	Background-color:#EBFF3B;
+	font-size: 35px;
+}
+#Prop{
+	Background-color:#EBFF3B;
+}
+#Prop h3{
+	transition-duration: .2s;
+	Font-Size: 25px;
+	padding: 10px;
+}#Prop h3:hover{
+	Font-Size: 50px;
+	padding: 10px;
+	text-shadow: 6px 1px 16px rgba(188, 241, 150, 1);
+}
+#Prop h1{
+	background-color:#54A148;
+	Border-style: Solid;
+	Border-color: Black;
+	color: #ffffff; 
+}
+#SpeedNews{
+	Background-color:#EBFF3B;
+}
+#SpeedNews {
+	Font-Size: 35px;
+	transition-duration: .2s;
+}
+#NewsText{
+			Background-color: #54A148;
+	border-style: solid;
+	-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+Color: #ffffff;
+}
+#SpeedNews:HOVER{
+		Font-Size: 75px;
+		Background-color:#EBFF3B;
+			-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+Color: #ffffff;
+}
+#NTX{
+Font-size: 25px;
+}
+#NTX:hover{
+Font-Size: 50px;
+}
+#Gtext{
+	Font-Size: 35px;
+	transition-duration: .2s;
+}
+#Gtext:Hover{
+	Font-Size: 50px;
+	text-shadow: 6px 1px 16px rgba(188, 241, 150, 1);
+}
+#ClassText{
+	Background-color: #54A148;
+	border-style: solid;
+	margin:25px;
+	padding: 50px;
+	-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+}
+#IMCLASS{
+	border-radius: 50%;
+	-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+Margin: 50px;
+}
+#IMCLASS:HOVER{
+-webkit-box-shadow: 20px 28px 67px 7px rgba(57, 212, 55, 0.59);
+-moz-box-shadow: 20px 28px 67px 7px rgba(57, 212, 55, 0.59);
+box-shadow: 20px 28px 67px 7px rgba(57, 212, 55, 0.59);
+}#IMC3{
+	transition-duration: .2s;
+	border-radius: 50%;
+	-webkit-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+box-shadow: 20px 28px 39px 13px rgba(34, 60, 80, 0.2);
+Margin: 50px;
+}
+#IMC3:HOVER{
+-webkit-box-shadow: 3px 3px 100px 65px rgba(33, 186, 64, 0.59);
+-moz-box-shadow: 3px 3px 100px 65px rgba(33, 186, 64, 0.59);
+box-shadow: 3px 3px 100px 65px rgba(33, 186, 64, 0.59);
+}
+#OSN{
+	Background-color:#EBFF3B;
+}
+#menu {
+	background: #54A148;
+	color: #FFF;
+	height: 79px;
+	padding-left: 18px;
+	border-radius: 0px;
+}
+#menu ul, #menu li {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none
+}
+#menu ul {
+	width: 100%;
+}
+#menu li {
+	transition-duration: .2s;
+	float: left;
+	display: inline;
+	position: relative;
+}
+#menu a {
+	display: block;
+	line-height: 79px;
+	padding: 0 14px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 21px;
+	text-transform: uppercase;
+}
+#menu a.dropdown-arrow:after {
+	content: "\25BE";
+	margin-left: 5px;
+}
+#menu li a:hover {
+	transition-duration: .2s;
+	color: #000000;
+	background: #D4F213;
+	Font-size: 35px;
+}
+#menu input {
+	display: none;
+	margin: 0;
+	padding: 0;
+	height: 79px;
+	width: 100%;
+	opacity: 0;
+	cursor: pointer
+}
+#menu label {
+	display: none;
+	line-height: 79px;
+	text-align: center;
+	position: absolute;
+	left: 35px
+}
+#menu label:before {
+	font-size: 1.6em;
+	content: "\2261"; 
+	margin-left: 20px;
+}
+#menu ul.sub-menus{
+	height: auto;
+	overflow: hidden;
+	width: 170px;
+	background: #444444;
+	position: absolute;
+	z-index: 99;
+	display: none;
+}
+#menu ul.sub-menus li {
+	display: block;
+	width: 100%;
+}
+#menu ul.sub-menus a {
+	color: #FFFFFF;
+	font-size: 8px;
+}
+#menu li:hover ul.sub-menus {
+	display: block
+}
+#menu ul.sub-menus a:hover{
+	background: #F2F2F2;
+	color: #444444;
+}
+@media screen and (max-width: 800px){
+	#menu {position:relative}
+	#menu ul {background:#111;position:absolute;top:100%;right:0;left:0;z-index:3;height:auto;display:none}
+	#menu ul.sub-menus {width:100%;position:static;}
+	#menu ul.sub-menus a {padding-left:30px;}
+	#menu li {display:block;float:none;width:auto;}
+	#menu input, #menu label {position:absolute;top:0;left:0;display:block}
+	#menu input {z-index:4}
+	#menu input:checked + label {color:white}
+	#menu input:checked + label:before {content:"\00d7"}
+	#menu input:checked ~ ul {display:block}
+}
